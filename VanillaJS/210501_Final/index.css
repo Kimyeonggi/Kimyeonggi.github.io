@@ -2,7 +2,6 @@ body {
   text-align: center;
   vertical-align: middle;
   background-color: #2c3e50;
-  text-decoration-color: 
   
 }
 
@@ -11,8 +10,8 @@ body {
 }
 body {
   font-size:xx-large;
-  color:grey;
-  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+  color:ivory;
+  text-shadow: -1px 0 aquamarine, 0 1px aquamarine, 1px 0 aquamarine, 0 -1px aquamarine;
   font-family: sans-serif;
 }
 .clicked {
